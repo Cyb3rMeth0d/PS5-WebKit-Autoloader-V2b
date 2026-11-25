@@ -2,7 +2,7 @@
   <img src="./assets/icon.svg" width="132" alt="Cyb3rmeth0d" />
 </p>
 
-<h1 align="center">PS5 WebKit Autoloader · V.1b</h1>
+<h1 align="center">PS5 WebKit Autoloader · V.2b</h1>
 
 <p align="center">
   <b>Instalador ELF By Cyb3rmeth0d</b><br>
